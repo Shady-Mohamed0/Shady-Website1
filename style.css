@@ -1,0 +1,11 @@
+.one{
+background-color: darkgrey;
+font-size: 30px;
+}
+.two{
+background-color: azure;
+font-size: large;
+}
+body{
+    background-color: rgb(222, 168, 146);
+}
